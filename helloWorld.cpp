@@ -6,5 +6,6 @@ int main() {
   for(int i = 1;i<=50;i++)
     cout<<i;
   cout<<"Hello world";
+  cout<<endl;
   return 0;
 }
